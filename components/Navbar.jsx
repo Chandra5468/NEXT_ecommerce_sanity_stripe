@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href={"/"}>Toy Store</Link>
+        <Link href={"/"}>Electra</Link>
       </p>
 
       <button
